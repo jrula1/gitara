@@ -1,0 +1,10 @@
+#excluding directory Sprawko
+Sprawko/
+
+#exceulding binary files
+*.o
+
+#excluding executable files
+MinMax/test_search_max_openmp
+
+Sortowanie/test_sortowanie
