@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<omp.h>
 
+//this is random comment
+
 #include "sortowanie_seq.h"
 
 void merge_sort_openmp(
