@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<omp.h>
 
-//this is random comment 10
+//this is comment for fix22
 
 #include "sortowanie_seq.h"
 
