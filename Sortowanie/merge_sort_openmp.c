@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<omp.h>
 
-//this is random comment 10
+//ten komentarz jes randomowy
 
 #include "sortowanie_seq.h"
 
