@@ -2,8 +2,7 @@
 #include<stdio.h>
 #include<omp.h>
 
-//this is random comment 10
-
+//lets make some conflict2ss
 #include "sortowanie_seq.h"
 
 void merge_sort_openmp(
