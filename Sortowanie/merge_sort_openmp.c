@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<omp.h>
 
-//my Boss is a Jerk
+//this is comment for fix22
 
 #include "sortowanie_seq.h"
 
